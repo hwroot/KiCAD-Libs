@@ -1,6 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP GA3460-BL
+D GA3460-BL
 F https://www.coilcraft.com/pdfs/ga3459.pdf
 $ENDCMP
 #
